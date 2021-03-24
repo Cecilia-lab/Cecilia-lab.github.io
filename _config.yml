@@ -103,6 +103,6 @@ theme: yun
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/Cecilia-lab/evergarden.github.io.git
+  repo: https://github.com/Cecilia-lab/evergarden.github.io
   branch: master
   message: Updata Hexo Static Content
