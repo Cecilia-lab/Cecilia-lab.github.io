@@ -1,9 +1,9 @@
-title: Hexo
+title: 永恒花园
 subtitle: ''
 description: ''
 keywords: null
-author: John Doe
-language: en
+author: Cecilia
+language: zh-cn
 timezone: ''
 url: http://example.com
 permalink: ':year/:month/:day/:title/'
@@ -62,7 +62,7 @@ ignore: null
 theme: yun
 deploy:
   type: git
-  repo: https://github.com/Cecilia-lab/evergarden.github.io
+  repo: https://github.com/Cecilia-lab/Cecilia-lab.github.io
   branch: master
   message: Updata Hexo Static Content
   respository: git@github.com:Cecilia-lab/Cecilia-lab.github.io.git

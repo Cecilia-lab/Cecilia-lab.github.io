@@ -1,0 +1,83 @@
+mode: auto
+
+avatar:
+  url: /images/avatar.jpg
+  rounded: true
+  opacity: 1
+  status:
+    enable: true
+    emoji: 😊
+    message: Looking for dawn.
+
+github_issues:
+  enable: false
+
+github_discussions:
+  enable: false
+
+engine_search:
+  enable: true
+
+post_edit:
+  enable: true
+  url: https://github.com/Cecilia-lab/Cecilia-lab.github.io/tree/hexo/source/
+
+menu:
+  custom:
+    title: 留言板
+    path: /about/#comment
+    icon: icon-clipboard-line
+
+pages:
+
+tags:
+  动画: crimson
+  漫画: orange
+  学习: saddlebrown
+  教程: royalblue
+  笔记: dimgray
+  分享: "#0078e7"
+  札记: mediumpurple
+
+cursor:
+  enable: true
+
+baidu_push: true
+
+google_tagmanager:
+  enable: true
+  id: GTM-M9KWR9L
+
+say:
+  api: https://el-bot-api.vercel.app/api/words/young
+  hitokoto:
+    enable: false
+
+social:
+  - name: GitHub
+    link: https://github.com/Cecilia-lab
+    icon: icon-github-line
+    color: "#9932CC"
+  - name: Travelling
+    link: https://travellings.now.sh/
+    icon: icon-send-plane-2-line
+    color: black
+
+banner:
+  title: 
+    永恒花园
+
+reward:
+  enable：false
+
+footer:
+  since: 2021
+  beian:
+    enable: true
+    icp: 苏ICP备xxxxxxxx号
+
+mourn:
+  enable: true
+  days:
+    - "4-4"
+    - "12-13"
