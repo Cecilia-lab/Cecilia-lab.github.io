@@ -32,7 +32,7 @@ pages:
 
 tags:
   动画: crimson
-  漫画: orange
+  游戏: orange
   学习: saddlebrown
   教程: royalblue
   笔记: dimgray
@@ -64,8 +64,7 @@ social:
     color: black
 
 banner:
-  title: 
-    永恒花园
+  title: 峖之的永恒花园
 
 reward:
   enable：false
@@ -81,3 +80,14 @@ mourn:
   days:
     - "4-4"
     - "12-13"
+
+wordcloud:
+  enable: true
+
+bg_image:
+  enable: true
+  url: /images/background/morning2.jpg
+  dark: /images/background/painter.jpg
+  
+post_card:
+  opacity: 0.7
