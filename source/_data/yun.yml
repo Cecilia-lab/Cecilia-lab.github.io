@@ -64,7 +64,7 @@ social:
     color: black
 
 banner:
-  title: 峖之的永恒花园
+  title: 梧桐的小站
 
 reward:
   enable：false
@@ -73,7 +73,7 @@ footer:
   since: 2021
   beian:
     enable: true
-    icp: 苏ICP备xxxxxxxx号
+    icp: 学院都市备案号
 
 mourn:
   enable: true
@@ -86,7 +86,7 @@ wordcloud:
 
 bg_image:
   enable: true
-  url: /images/background/morning2.jpg
+  #url: /images/background/morning2.jpg
   dark: /images/background/painter.jpg
   
 post_card:
