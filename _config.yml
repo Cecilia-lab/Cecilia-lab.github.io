@@ -1,11 +1,11 @@
-title: 永恒花园
+title: 梧桐的小窝
 subtitle: ''
 description: ''
 keywords: null
 author: Cecilia
 language: zh-CN
 timezone: ''
-url: http://example.com
+url: https://cecilia-lab.github.io/
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
@@ -32,16 +32,16 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight:
-  enable: true
+  enable: false
   line_number: true
   auto_detect: false
   tab_replace: ''
   wrap: true
   hljs: false
 prismjs:
-  enable: false
+  enable: true
   preprocess: true
-  line_number: true
+  line_number: false
   tab_replace: ''
 index_generator:
   path: ''
@@ -62,7 +62,7 @@ ignore: null
 theme: yun
 deploy:
   type: git
-  repo: https://github.com/Cecilia-lab/Cecilia-lab.github.io
+  repo: git@github.com:Cecilia-lab/Cecilia-lab.github.io.git
   branch: master
   message: Updata Hexo Static Content
   respository: git@github.com:Cecilia-lab/Cecilia-lab.github.io.git

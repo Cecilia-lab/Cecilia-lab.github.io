@@ -91,3 +91,9 @@ bg_image:
   
 post_card:
   opacity: 0.7
+
+codeblock:
+  copy_btn: true #开启一键复制按钮
+  prismjs:
+    light: default #亮模式下，代码高亮主题
+    dark: tomorrow #暗模式下，代码高亮主题
